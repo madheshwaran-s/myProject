@@ -3,3 +3,4 @@ Thank you!
 Making changes from the terminal!
 something is wrong in this file just give a look
 This message is from the 2nd branch
+adding this line to check the merge operation from terminal
